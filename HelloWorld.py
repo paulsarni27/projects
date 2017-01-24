@@ -4,4 +4,4 @@ print "Done"
 
 print "Really done"
 
-print "Sure"
+print "Sure, yes"
